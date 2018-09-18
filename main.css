@@ -1,0 +1,20 @@
+.blue {
+background-color: blue;
+}
+
+
+.large {
+    font-size: 50px;
+
+}
+
+
+.bordered {
+border: 3px solid black;
+}
+
+
+.rounded {
+border-radius: 6px;
+border: 3px solid black;
+}
